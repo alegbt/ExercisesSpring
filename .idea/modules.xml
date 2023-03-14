@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExercisesSpring.iml" filepath="$PROJECT_DIR$/.idea/ExercisesSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_API_1/apiStart.iml" filepath="$PROJECT_DIR$/First_API_1/apiStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_API_2/apiStart (1).iml" filepath="$PROJECT_DIR$/First_API_2/apiStart (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_API_3/apiStart (2).iml" filepath="$PROJECT_DIR$/First_API_3/apiStart (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_dependency-injection/dependency-injection.iml" filepath="$PROJECT_DIR$/6_dependency-injection/dependency-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-api-4/first-api-4.iml" filepath="$PROJECT_DIR$/first-api-4/first-api-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-api-5/first-api-5.iml" filepath="$PROJECT_DIR$/first-api-5/first-api-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_swagger-1/swagger.iml" filepath="$PROJECT_DIR$/7_swagger-1/swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_swagger-2/swagger-2.iml" filepath="$PROJECT_DIR$/8_swagger-2/swagger-2.iml" />
+    </modules>
+  </component>
+</project>

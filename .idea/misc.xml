@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/7_swagger-1/pom.xml" />
+        <option value="$PROJECT_DIR$/8_swagger-2/pom.xml" />
+        <option value="$PROJECT_DIR$/first-api-4/pom.xml" />
+        <option value="$PROJECT_DIR$/first-api-5/pom.xml" />
+        <option value="$PROJECT_DIR$/First_API_1/pom.xml" />
+        <option value="$PROJECT_DIR$/First_API_2/pom.xml" />
+        <option value="$PROJECT_DIR$/First_API_3/pom.xml" />
+        <option value="$PROJECT_DIR$/6_dependency-injection/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>

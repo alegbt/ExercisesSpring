@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/6_dependency-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/6_dependency-injection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7_swagger-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/7_swagger-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8_swagger-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8_swagger-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First_API_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First_API_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First_API_2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First_API_2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First_API_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/First_API_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-api-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-api-4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-api-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/first-api-5/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
