@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: aledh.mailsender@gmail.com
+    password: pw unica su - gestione account google>password per le app>selezione app>altra
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
