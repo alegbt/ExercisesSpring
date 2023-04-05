@@ -3,6 +3,7 @@ package co.develhope.websocket2.entities;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 
 public class MessageDTO {
@@ -10,6 +11,9 @@ public class MessageDTO {
     private String sender;
     private String type;
     private String message;
+
+
+
 
 
     public MessageDTO() {
@@ -21,7 +25,13 @@ public class MessageDTO {
         this.message = message;
     }
 
-    public MessageDTO(String s) {
+    @Override
+    public String toString() {
+        return "MessageDTO{" +
+                "sender='" + sender + '\'' +
+                ", type='" + type + '\'' +
+                ", message='" + message + '\'' +
+                '}';
     }
 
     public String getSender() {

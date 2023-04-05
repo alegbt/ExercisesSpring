@@ -30,7 +30,7 @@ public class NotificationController {
     @MessageMapping("/client-message")
     @SendTo("/topic/broadcast")
     public MessageDTO messageFromClient(ClientMessageDTO message){
-        System.out.println("message arrived: "+message.toString());
+        System.out.println("message arrived: "+message.getClientMsg());
         return new MessageDTO(message.getClientName(), message.getClientAlert(),message.getClientMsg());
     }
 
