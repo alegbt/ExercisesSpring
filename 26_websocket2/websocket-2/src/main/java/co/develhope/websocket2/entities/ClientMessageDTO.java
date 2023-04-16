@@ -13,10 +13,6 @@ public class ClientMessageDTO {
     private String clientMsg;
 
 
-
-
-
-
     public ClientMessageDTO() {
     }
 
